@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1I6NcBv7IsrjyvW9sFEUG38nB2TF53lcH925fn2V8s8=",
+  "Source": "AutoresApplication2",
+  "BasePath": "_content/AutoresApplication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoresApplication2\\wwwroot",
+      "Source": "AutoresApplication2",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\AutoresApplication2\\AutoresApplication2\\wwwroot\\",
+      "BasePath": "_content/AutoresApplication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\AutoresApplication2\\AutoresApplication2\\wwwroot\\Archivo 1.txt",
+      "SourceId": "AutoresApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\AutoresApplication2\\AutoresApplication2\\wwwroot\\",
+      "BasePath": "_content/AutoresApplication2",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    }
+  ]
+}
